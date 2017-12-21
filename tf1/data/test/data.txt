@@ -1,0 +1,15 @@
+./data/test/zuckerberg/cutted_zuck10.jpg 0
+./data/test/zuckerberg/cutted_zuck11.jpg 0
+./data/test/zuckerberg/cutted_zuck6.jpg 0
+./data/test/zuckerberg/cutted_zuck8.jpg 0
+./data/test/zuckerberg/cutted_zuck9.jpg 0
+./data/test/elonmusk/cutted_elon14.jpg 1
+./data/test/elonmusk/cutted_elon15.jpg 1
+./data/test/elonmusk/cutted_elon16.jpg 1
+./data/test/elonmusk/cutted_elon19.jpg 1
+./data/test/elonmusk/cutted_elon20.jpg 1
+./data/test/billgates/cutted_bill10.jpg 2
+./data/test/billgates/cutted_bill11.jpg 2
+./data/test/billgates/cutted_bill12.jpg 2
+./data/test/billgates/cutted_bill5.jpg 2
+./data/test/billgates/cutted_bill6.jpg 2
